@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="SplashMessage">Welcome To Flag Quiz Game</string>
+    <string name="Correct">Correct:0</string>
+    <string name="Wrong">Wrong:0</string>
+    <string name="question">Question : 1</string>
+
+</resources>
